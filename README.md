@@ -4,8 +4,7 @@ Diary Entry App for Android
 <img src="https://github.com/jbassuquo4/Journal-App/blob/master/icons/redicon.png"  align="left" height="125" width="125" >
 Journal App is a basic note-making application for your android gadget.
 The application gives you a rundown of notes in a perfect and clean form. The Journal application can be included as a module into other application to give note making usefulness. Every one of the sections is stored in the SQLite database inside the application. The Journal application gives all the fundamental CRUD activity. 
-This is a journal application where in users can pen down their thoughts and feelings. 
-It makes use of SQLite database. The implemented application features are found here.
+This is a journal application where in users can pen down their thoughts and feelings. The implemented application features are found here.
 <p></p>
 Application Functions:<p></p>
 Users are able to:<br>

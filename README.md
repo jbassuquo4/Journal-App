@@ -1,5 +1,4 @@
 # Journal App
-Diary Entry App for Android
 
 <img src="https://github.com/jbassuquo4/Journal-App/blob/master/icons/redicon.png"  align="left" height="125" width="125" >
 Journal App is a basic note-making application for your android gadget.

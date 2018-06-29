@@ -1,9 +1,9 @@
 # Journal App
-Journal Entry App for Android 
+Diary Entry App for Android
 
 <img src="https://github.com/jbassuquo4/Journal-App/blob/master/icons/redicon.png"  align="left" height="125" width="125" >
-Journal App is a simple note making application for your android device. 
-The application provides you with a list of notes in a neat and clean fashion. The Journal application can be added as a plugin into other application to provide note making functionality. All the entries are stored in the sqlite database inside the application. The Journal application provides all the basic CRUD operation.
+Journal App is a basic note-making application for your android gadget.
+The application gives you a rundown of notes in a perfect and clean form. The Journal application can be included as a module into other application to give note making usefulness. Every one of the sections is stored in the SQLite database inside the application. The Journal application gives all the fundamental CRUD activity. 
 This is a journal application where in users can pen down their thoughts and feelings. 
 It makes use of SQLite database. The implemented application features are found here.
 <p></p>
@@ -27,9 +27,9 @@ Use the download link https://developer.android.com/studio/install and follow th
 
 1) Download the project and import into Android studio
 
-2) Generate the apk file
+2) Generate the APK file
 
-3) Install in your target device.
+3) Install in your objective gadget.
 <br>
 <a href="https://github.com/jbassuquo4/Journal-App/blob/master/app/build/outputs/apk/debug/app-debug.apk">Download Now!!!</a>
 <br>
@@ -47,20 +47,20 @@ This project was developed as a light weight notemaker application for Android s
 ## Deployment
 
 <img src="https://github.com/jbassuquo4/Journal-App/blob/master/icons/love.png" align="right" height="125" width="125" >
-Please enable installation from "unknow source" in your settings to install the apk file. <br>
-Please change the minimum SDK version in the gradle file to support the lower android versions. <br>
+If it's not too much trouble empower installation from "unknow source" in your settings to introduce the apk file. <br> 
+It would be ideal if you change the minimum SDK version in the gradle file to support the lower android variants. <br>
 <br>
 
 ## Built With
 
 Android Studio <br>
 Gradle <br>
-Android SDK 5.0 and above <br>
+Android SDK 5.0 or more <br>
 <br>
 
 ## API Reference
 
-The project does not support any API or cloud support. But will be supported in the future version
+The project does not bolster any API or cloud support. Be that as it may, will be upheld later on rendition 
 
 ## Screenshot
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">634502103513-j0u9ivm7hhrf5ba67t0bb8bdl25uc3ac.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://jerry-abe92.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">634502103513</string>
+    <string name="google_api_key" translatable="false">AIzaSyCjKTB9v9CurbaFtcQR4Sl5IewCGvYHaGg</string>
+    <string name="google_app_id" translatable="false">1:634502103513:android:de9bd35392e91a9c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCjKTB9v9CurbaFtcQR4Sl5IewCGvYHaGg</string>
+    <string name="google_storage_bucket" translatable="false">jerry-abe92.appspot.com</string>
+    <string name="project_id" translatable="false">jerry-abe92</string>
+</resources>

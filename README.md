@@ -46,7 +46,7 @@ This project was developed as a light weight notemaker application for Android s
 ## Deployment
 
 <img src="https://github.com/jbassuquo4/Journal-App/blob/master/icons/love.png" align="right" height="125" width="125" >
-If it's not too much trouble empower installation from "unknow source" in your settings to introduce the apk file. <br> 
+If it's not too much trouble empower installation from "unknow source" in your settings to introduce the APK file. <br> 
 It would be ideal if you change the minimum SDK version in the gradle file to support the lower android variants. <br>
 <br>
 
